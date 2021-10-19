@@ -8,8 +8,8 @@ export const INFORMATION = {
   color: `teal`,
   social: [
     {
-      name: "instagram",
-      url: `https://instagram.com/cielitoazul.js`,
+      name: "facebook",
+      url: `https://www.facebook.com/Cielito-Azul-SAC-502456613563173`,
     },
     {
       name: "whatsapp",
